@@ -8,6 +8,7 @@ A discord channel is notified via a webhook.
 Data is witten to a json file for use in robot.html as a stream overlay.
 
 True Finals API Docs: https://truefinals.com/docs.html
+
 Discord webhook docs: https://discord.com/developers/docs/resources/webhook
 
 TODO
