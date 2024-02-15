@@ -68,9 +68,9 @@ for ID in ids:
 
 jsonData = {
   "p1name": "Player1 (0-0)",
-  "p1icon": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png",
+  "p1icon": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
   "p2name": "Player2 (0-0)",
-  "p2icon": "https://www.robotcombatevents.com/assets/RCELogo-3383ca77f76e5be2b7755ea9d0c464aea25a87d8c9f2a4cffd63643392f59fe7.png",
+  "p2icon": "data:image/gif;base64,R0lGODlhAQABAAD/ACwAAAAAAQABAAACADs=",
   "timer": "",
   "winner": "Player1",
   "scroller": "",
