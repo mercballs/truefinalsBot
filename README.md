@@ -3,9 +3,10 @@ truefinalsBot
 Based on Nathan's work here: https://github.com/NRS048/Discord-TrueFinals-Webhook
 
 This script integrates truefinals.com, discord and an OBS stream overlay.
-The true finals API is polled for called, active and compelted matches.
+The true finals API is polled for called, active and completed matches.
 A discord channel is notified via a webhook.
 Data is witten to a json file for use in robot.html as a stream overlay.
+Event info is also logged to a text file.
 
 True Finals API Docs: https://truefinals.com/docs.html
 
